@@ -6,10 +6,24 @@ Welcome to the Machine Learning Algorithms repository! This repository contains 
 The repository includes the following algorithms:
 
 Find-S Algorithm: A simple algorithm used in machine learning for finding the most specific hypothesis that fits all positive examples.
+
 Candidate Elimination Algorithm: A concept learning algorithm that incrementally builds the version space by considering each training example.
+
 Decision Trees: A non-parametric supervised learning method used for classification and regression tasks.
+
 Support Vector Machine (SVM): A supervised learning model that analyzes data for classification and regression analysis.
+
 Naive Bayes: A probabilistic classifier based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
+
 Artificial Neural Networks (ANN): A computing system inspired by the biological neural networks that constitute animal brains, useful for pattern recognition.
+
 Linear Regression: A linear approach to modeling the relationship between a dependent variable and one or more independent variables.
+
 Logistic Regression: A statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome.
+
+
+## Requirements and Tested Platforms :
+
+Python: Jupyter Notebook
+
+Windows (32bit/64bit): Windows 11
